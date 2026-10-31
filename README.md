@@ -21,19 +21,9 @@
 - **AI & Automation** : Retrieval-Augmented Generation (RAG), Embeddings and Vector Stores, Power Automate, Robotic Process Automation (RPA)
 - **HR Technology** : Workday, SAP SuccessFactors, Oracle, SumTotal LMS, HRIS & People Data Ecosystems
 
-## 📂 Featured Areas of Interest
-
-I'm developing practical projects focused on solving real-world workforce and business problems.
-
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on projects involving:
-
-- People Analytics & Workforce Intelligence
-- HR Data Engineering
-- Business Intelligence & Data Visualization
-- AI-driven HR Transformation
-- Workforce Planning & Talent Analytics
+**I'm interested in collaborating on projects involving** : People Analytics & Workforce Intelligence, HR Data Engineering, Business Intelligence & Data Visualization, AI-driven HR Transformation, Workforce Planning & Talent Analytics
 
 **My goal:** Make workforce data more meaningful, accessible, and actionable for better business decisions.
 
