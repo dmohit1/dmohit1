@@ -2,12 +2,6 @@
 
 ### People Analytics | Workforce Intelligence | HR Technology | Data & AI
 
-I am a People Analytics and HR Transformation professional with **10+ years of experience** translating workforce data into actionable business insights, building analytics solutions, and driving technology-enabled HR transformation.
-
-Currently working as a **Manager at Grant Thornton**, leading a 9-member Talent Acquisition Support team and driving operational excellence, workforce reporting, analytics, and process transformation.
-
-I enjoy working at the intersection of **People, Data, Technology, and Business Strategy**.
-
 ---
 
 ## 🚀 What I Work On
@@ -22,13 +16,9 @@ I enjoy working at the intersection of **People, Data, Technology, and Business 
 ## 🛠️ Technology Stack
 
 **Analytics & Visualization** : Power BI, Tableau, Advanced Excel
-
 **Programming & Data** : SQL, Python, PySpark (learning and practical exposure)
-
 **Data Engineering & Cloud Analytics** : Microsoft Fabric, Databricks, Apache Spark, Delta Lake, Medallion Architecture
-
 **AI & Automation** : Retrieval-Augmented Generation (RAG), Embeddings and Vector Stores, Power Automate, Robotic Process Automation (RPA)
-
 **HR Technology** : Workday, SAP SuccessFactors, Oracle, SumTotal LMS, HRIS & People Data Ecosystems
 
 ## 📂 Featured Areas of Interest
@@ -43,15 +33,6 @@ I'm developing practical projects focused on solving real-world workforce and bu
 | HR Data Engineering | SQL/Python pipelines and data transformation |
 | Workforce Intelligence | Workforce planning and predictive insights |
 | AI-powered HR Assistant | RAG-based HR knowledge retrieval |
-
-
-## 🎯 Current Learning & Development
-
-- Advanced People Analytics and Workforce Intelligence
-- Microsoft Fabric and modern data engineering
-- Databricks, Spark SQL and PySpark
-- AI applications in HR and enterprise knowledge management
-- Predictive workforce analytics
 
 ## 🤝 Let's Connect
 
