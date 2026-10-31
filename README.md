@@ -15,24 +15,15 @@
 
 ## 🛠️ Technology Stack
 
-**Analytics & Visualization** : Power BI, Tableau, Advanced Excel
-**Programming & Data** : SQL, Python, PySpark (learning and practical exposure)
-**Data Engineering & Cloud Analytics** : Microsoft Fabric, Databricks, Apache Spark, Delta Lake, Medallion Architecture
-**AI & Automation** : Retrieval-Augmented Generation (RAG), Embeddings and Vector Stores, Power Automate, Robotic Process Automation (RPA)
-**HR Technology** : Workday, SAP SuccessFactors, Oracle, SumTotal LMS, HRIS & People Data Ecosystems
+- **Analytics & Visualization** : Power BI, Tableau, Advanced Excel
+- **Programming & Data** : SQL, Python, PySpark (learning and practical exposure)
+- **Data Engineering & Cloud Analytics** : Microsoft Fabric, Databricks, Apache Spark, Delta Lake, Medallion Architecture
+- **AI & Automation** : Retrieval-Augmented Generation (RAG), Embeddings and Vector Stores, Power Automate, Robotic Process Automation (RPA)
+- **HR Technology** : Workday, SAP SuccessFactors, Oracle, SumTotal LMS, HRIS & People Data Ecosystems
 
 ## 📂 Featured Areas of Interest
 
 I'm developing practical projects focused on solving real-world workforce and business problems.
-
-| Project Area | What it explores |
-|---|---|
-| People Analytics Dashboard | Headcount, attrition, diversity and workforce trends |
-| Recruitment Analytics | Hiring funnel, time-to-fill and recruitment efficiency |
-| Employee Attrition Analysis | Workforce segmentation and retention insights |
-| HR Data Engineering | SQL/Python pipelines and data transformation |
-| Workforce Intelligence | Workforce planning and predictive insights |
-| AI-powered HR Assistant | RAG-based HR knowledge retrieval |
 
 ## 🤝 Let's Connect
 
