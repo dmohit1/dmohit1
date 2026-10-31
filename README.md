@@ -21,34 +21,15 @@ I enjoy working at the intersection of **People, Data, Technology, and Business 
 
 ## 🛠️ Technology Stack
 
-**Analytics & Visualization**
-- Power BI
-- Tableau
-- Advanced Excel
+**Analytics & Visualization** : Power BI, Tableau, Advanced Excel
 
-**Programming & Data**
-- SQL
-- Python
-- PySpark (learning and practical exposure)
+**Programming & Data** : SQL, Python, PySpark (learning and practical exposure)
 
-**Data Engineering & Cloud Analytics**
-- Microsoft Fabric
-- Databricks
-- Apache Spark
-- Delta Lake
-- Medallion Architecture
+**Data Engineering & Cloud Analytics** : Microsoft Fabric, Databricks, Apache Spark, Delta Lake, Medallion Architecture
 
-**AI & Automation**
-- Retrieval-Augmented Generation (RAG)
-- Embeddings and Vector Stores
-- Power Automate
-- Robotic Process Automation (RPA)
+**AI & Automation** : Retrieval-Augmented Generation (RAG), Embeddings and Vector Stores, Power Automate, Robotic Process Automation (RPA)
 
-**HR Technology**
-- Workday
-- SAP SuccessFactors
-- SumTotal LMS
-- HRIS & People Data Ecosystems
+**HR Technology** : Workday, SAP SuccessFactors, Oracle, SumTotal LMS, HRIS & People Data Ecosystems
 
 ## 📂 Featured Areas of Interest
 
@@ -63,14 +44,6 @@ I'm developing practical projects focused on solving real-world workforce and bu
 | Workforce Intelligence | Workforce planning and predictive insights |
 | AI-powered HR Assistant | RAG-based HR knowledge retrieval |
 
-## 💡 Selected Professional Highlights
-
-- Lead a 9-member Talent Acquisition Support team at Grant Thornton.
-- Developed analytics and reporting solutions that reduced executive reporting turnaround time by approximately 60%.
-- Improved workforce readiness visibility through leadership dashboards.
-- Worked across HR operations, people analytics, talent acquisition and HR technology transformation.
-- Built a prototype for an HR knowledge assistant using RAG concepts.
-- Completed Databricks knowledge badges in SQL Analytics and AI/BI for Data Analysts.
 
 ## 🎯 Current Learning & Development
 
